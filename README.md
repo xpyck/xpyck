@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xpyck
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: xpyck#8443
